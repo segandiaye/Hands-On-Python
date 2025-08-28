@@ -2,7 +2,7 @@
 
 Hands on Python
 
-# Run
+# Running exampe
 
 ```bash
 uvicorn app.main:app --reload
