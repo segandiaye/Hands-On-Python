@@ -20,13 +20,3 @@ async def upload_csv(file: UploadFile = File(...)):
         "columns": df.columns.tolist(),
         "rows": len(df)
     }
-
-"""
-curl -X POST "http://127.0.0.1:8000/upload-csv/" \
-  -H "accept: application/json" \
-  -H "Content-Type: multipart/form-data" \
-  -F "file=@data.csv"
-  
-curl -X POST "http://127.0.0.1:8000/upload-csv/" \
-  -F "file=@data.csv;type=text/csv"
-"""
