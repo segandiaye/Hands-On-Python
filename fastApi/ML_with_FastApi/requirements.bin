@@ -1,7 +1,0 @@
-fastapi
-pydantic
-typing
-numpy
-pickle
-scikit-learn
-pymongo
