@@ -1,9 +1,3 @@
 # Hands-On-Python
 
-Hands on Python
-
-# Running exampe
-
-```bash
-uvicorn app.main:app --reload
-```
+Hands-on with Python and Tools
