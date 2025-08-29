@@ -18,3 +18,7 @@ With config.toml file :
 mkdir -p ~/.streamlit
 cp config.toml ~/.streamlit/
 ```
+
+# Deployment
+
+Go to [streamlit.io](streamlit.io)
