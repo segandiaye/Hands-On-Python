@@ -23,4 +23,4 @@ streamlit run simple_webapp/app.py # This will serve on the port specified in co
 
 # Deployment
 
-Go to [streamlit.io](streamlit.io)
+See [streamlit.io](streamlit.io) for more details
