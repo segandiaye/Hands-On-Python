@@ -3,6 +3,7 @@
 Streamlit cheat sheet
 
 [cheat-sheet](https://cheat-sheet.streamlit.app/)
+
 [cheat-sheet](https://docs.streamlit.io/develop/quick-reference/cheat-sheet)
 
 # Running
